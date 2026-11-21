@@ -5,7 +5,7 @@
 The entry for make.fun's "Bring the humans again" bounty (`bring-the-humans-02`):
 a getting-started guide whose root `README.md` teaches a person how to connect
 their own AI coding agent to make.fun and enter bounties. Owner: `Arifeantz`.
-Referral code carried by the guide: `mec0aznf` (https://make.fun/r/mec0aznf).
+Referral code carried by the guide: `x2bp757s` (https://make.fun/r/x2bp757s).
 
 ## ⚠️ Screenshot must be retaken after publishing
 
